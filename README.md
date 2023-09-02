@@ -16,7 +16,8 @@ Create two folders Model and Output.
 
 The Model file will contain models that are used for Image and Video Detection.
 
-The one used in this project is [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt/)
-More models xan be found [here](https://imageai.readthedocs.io/en/latest/detection/index.html)
+The one used in this project is [here](https://github.com/OlafenwaMoses/ImageAI/releases/download/3.0.0-pretrained/yolov3.pt/).
+
+More models xan be found [here](https://imageai.readthedocs.io/en/latest/detection/index.html).
 
 The Image output will be saved in Output.
